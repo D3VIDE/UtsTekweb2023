@@ -1,0 +1,120 @@
+.navbar-nav{
+  color:white;
+}
+
+#portofolios:hover{
+  background-color: #20c997 !important; /* Highlight color */
+  color: white !important;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+
+#abouts:hover{
+  background-color: #20c997 !important;
+  /*Highlightcolor*/color: white !important;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+
+#contacts:hover{
+  background-color: #20c997 !important; /* Highlight color */
+  color: white !important;
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+}
+#background{
+  background-color: rgb(5, 159, 43);
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+#imgPanda{
+  display: block;
+  padding-bottom: 1rem;
+  width: 230px;
+  height: 100%;
+}
+
+#portofolio{
+  width: 100%;
+  margin: 0;
+}
+
+#background-porto{
+  padding-top:2rem;
+  padding-bottom: 2rem;
+  
+}
+
+.card-custom {
+  padding: 10px;
+  border-radius: 15px;
+  margin: 10px;
+}
+.card-img {
+  width: 150px;
+  height: 250px;
+  display: block;
+  margin: 0;
+}
+.bg-custom-1 { 
+  background-color: #d9534f; 
+}
+.bg-custom-2 { background-color: #5bc0de; }
+.bg-custom-3 { background-color: #292b2c; }
+.bg-custom-4 { background-color: #0275d8; }
+.bg-custom-5 { background-color: #f0ad4e; }
+.bg-custom-6 { background-color: #d3d3d3; }
+
+#about{
+  width: 100%;
+  margin: 0;
+  background-color: rgb(33, 145, 33);
+  padding-bottom: 4rem;
+}
+
+
+
+#text-about{
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+
+.normal-bg {
+  background-color: #343a40 !important; /* Dark background color */
+  color: white;
+}
+
+.blue-bg {
+  background-color: #20c997 !important; /* Highlight color */
+  color: white !important;
+}
+
+#contact{
+  width: 100%;
+  margin: 0;
+}
+
+.apa{
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+#ModalCard1 {
+   /* Set your desired width */
+  width: 100%;
+  align-items: center;
+  justify-content: center; /* Optional: Makes it responsive */
+}
+
+
+
